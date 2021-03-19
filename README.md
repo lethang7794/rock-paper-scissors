@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# CoderSchool FTW - _Rock, Paper, Scissors_
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Created with love by: `Thang`
 
-## Available Scripts
+View online at: [https://lqt-rps.netlify.app/](https://lqt-rps.netlify.app/)
 
-In the project directory, you can run:
+Summary: A game to test your rock, paper, scissors skill.
 
-### `npm start`
+## Walkthrough
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Here's a walkthrough of implemented user stories.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- Responsive design:
 
-### `npm test`
+<a href="https://lqt-rps.netlify.app/"><img src="https://i.imgur.com/q7m0rXU_d.webp" max-height="400"></a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Gameplay:
 
-### `npm run build`
+<a href="https://lqt-rps.netlify.app/"><img src="http://g.recordit.co/K0it4Dux3o.gif" max-height="400"></a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## User Stories
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### The following **required** functionalities are completed:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [x] User can click a button to choose rock/paper/scissors.
+- [x] Computer can make a random choice.
+- [x] User can see the result of current round.
+- [x] User can see the total score.
 
-### `npm run eject`
+### The following **additional** features are implemented:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- [x] 🚀🚀🚀 This awesome README.md.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## License
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+    Copyright [2021] [Le Quang Thang]
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
 
-## Learn More
+        http://www.apache.org/licenses/LICENSE-2.0
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
