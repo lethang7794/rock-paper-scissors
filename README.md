@@ -12,11 +12,11 @@ Here's a walkthrough of implemented user stories.
 
 - Responsive design:
 
-<a href="https://lqt-rps.netlify.app/"><img src="https://i.imgur.com/q7m0rXU_d.webp" max-height="400"></a>
+    <a href="https://lqt-rps.netlify.app/"><img src="https://i.imgur.com/q7m0rXU_d.webp" height="auto" width="250px"></a>
 
 - Gameplay:
 
-<a href="https://lqt-rps.netlify.app/"><img src="http://g.recordit.co/K0it4Dux3o.gif" max-height="400"></a>
+    <a href="https://lqt-rps.netlify.app/"><img src="http://g.recordit.co/K0it4Dux3o.gif" height="auto" width="500px"></a>
 
 ## User Stories
 
